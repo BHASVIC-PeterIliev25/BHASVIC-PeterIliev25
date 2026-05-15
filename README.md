@@ -1,6 +1,6 @@
 
 
-**BHASVIC-PeterIliev25/BHASVIC-PeterIliev25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Peter. Here's some info about myself:
 - I’m currently working on: Coursework
 - I’m currently learning: A level Computer Science
 - Goals:  Looking to enter Software Engineering or Games Development after University.
